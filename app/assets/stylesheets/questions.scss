@@ -1,0 +1,38 @@
+body {
+  font-family: 'Montserra';
+  font-weight: 300;
+}
+
+#input {
+  width: 400px;
+  border: 1px solid lightgray;
+  padding: 10px;
+}
+
+#btn {
+  width: 50px;
+   border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+  background-color: #337AB7;
+  color: white;
+  height: 35px;
+  border: #337AB7;
+}
+
+#answer {
+  font-family: Georgia;
+  font-weight: 600;
+  padding: 8px;
+  margin: 5px;
+  border-left: 5px solid lightgrey;
+}
+
+#coach {
+  font-family: Georgia;
+  font-weight: 600;
+  padding: 8px;
+  margin: 5px;
+  margin-right: 800px;
+  background-color: #FFFDE1;
+  border-left: 5px solid lightgrey;
+}
